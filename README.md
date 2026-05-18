@@ -48,13 +48,13 @@ The objectives of this project are:
 ✅ Grade evaluation system
 ✅ Simple and beginner-friendly code
 
-# 💻 Technologies Used
+# Technologies Used
 
 * **Language:** Python
 * **Version:** Python 3.x
 * **IDE:** VS Code / PyCharm / IDLE
 
-# 📂 Subjects Included
+# Subjects Included
 
 | Subject     |
 | ----------- |
@@ -66,7 +66,7 @@ The objectives of this project are:
 
 ---
 
-# 🧮 Grade System
+#  Grade System
 
 | Average Marks | Grade | Performance             |
 | ------------- | ----- | ----------------------- |
@@ -102,7 +102,7 @@ The final result is displayed on the screen.
 
 ---
 
-# 🖥️ Example Output
+#  Example Output
 
 ```text
 Enter English marks: 85
